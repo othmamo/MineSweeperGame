@@ -1,4 +1,4 @@
-# DeminerGame
+# MineSweeperGame
 Minesweeper with c#/.NET using windows forms<br/>
 
 To play, launch the program and choose the difficulties.<br/>
